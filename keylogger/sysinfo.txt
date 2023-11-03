@@ -1,0 +1,6 @@
+Couldnt get public ip add 
+Processor: Intel64 Family 6 Model 126 Stepping 5, GenuineIntel
+System: Windows 10.0.22621
+Machine: AMD64
+Hostname: SushrithaShetty
+Private IP Address: 192.168.56.1
